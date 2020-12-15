@@ -1,0 +1,621 @@
+,genre,popularity
+0,action,921.4
+1,action,783.8
+2,action,481.9
+3,action,437.2
+4,action,395.7
+5,action,389.6
+6,action,389.3
+7,action,381.2
+8,action,346.8
+9,action,332.7
+10,action,318.6
+11,action,303.0
+12,action,295.1
+13,action,294.8
+14,action,291.5
+15,action,287.0
+16,action,275.6
+17,action,269.9
+18,action,268.4
+19,action,256.9
+20,time travel,750.9
+21,time travel,616.5
+22,time travel,616.3
+23,time travel,560.1
+24,time travel,540.9
+25,time travel,510.7
+26,time travel,486.8
+27,time travel,486.4
+28,time travel,474.1
+29,time travel,472.3
+30,time travel,469.6
+31,time travel,460.2
+32,time travel,437.2
+33,time travel,428.9
+34,time travel,427.8
+35,time travel,382.6
+36,time travel,355.1
+37,time travel,328.1
+38,time travel,283.1
+39,time travel,272.3
+40,fantasy,750.9
+41,fantasy,626.0
+42,fantasy,616.3
+43,fantasy,598.2
+44,fantasy,560.1
+45,fantasy,540.9
+46,fantasy,488.4
+47,fantasy,486.8
+48,fantasy,486.4
+49,fantasy,474.1
+50,fantasy,472.3
+51,fantasy,469.6
+52,fantasy,460.2
+53,fantasy,446.3
+54,fantasy,437.2
+55,fantasy,433.5
+56,fantasy,428.9
+57,fantasy,427.8
+58,fantasy,393.5
+59,fantasy,382.9
+60,combat,921.4
+61,combat,783.8
+62,combat,711.2
+63,combat,706.7
+64,combat,626.0
+65,combat,616.5
+66,combat,616.3
+67,combat,577.4
+68,combat,510.7
+69,combat,488.4
+70,combat,486.4
+71,combat,481.9
+72,combat,474.1
+73,combat,472.3
+74,combat,446.3
+75,combat,437.2
+76,combat,435.0
+77,combat,433.5
+78,combat,428.9
+79,combat,427.8
+80,padory,711.2
+81,padory,706.7
+82,padory,691.7
+83,padory,645.3
+84,padory,632.9
+85,padory,624.3
+86,padory,505.6
+87,padory,486.8
+88,padory,477.6
+89,padory,444.9
+90,padory,427.8
+91,padory,363.1
+92,padory,346.8
+93,padory,328.3
+94,padory,325.0
+95,padory,319.9
+96,padory,296.1
+97,padory,293.5
+98,padory,279.3
+99,padory,272.3
+100,silence of life,711.2
+101,silence of life,706.7
+102,silence of life,632.9
+103,silence of life,624.3
+104,silence of life,514.7
+105,silence of life,505.6
+106,silence of life,486.8
+107,silence of life,477.6
+108,silence of life,444.9
+109,silence of life,421.9
+110,silence of life,388.2
+111,silence of life,382.9
+112,silence of life,373.8
+113,silence of life,363.1
+114,silence of life,355.9
+115,silence of life,345.2
+116,silence of life,312.8
+117,silence of life,293.5
+118,silence of life,277.1
+119,silence of life,275.5
+120,Sci-fi,616.5
+121,Sci-fi,577.4
+122,Sci-fi,510.7
+123,Sci-fi,384.1
+124,Sci-fi,328.1
+125,Sci-fi,303.0
+126,Sci-fi,298.3
+127,Sci-fi,291.5
+128,Sci-fi,275.6
+129,Sci-fi,275.5
+130,Sci-fi,268.4
+131,Sci-fi,262.8
+132,Sci-fi,223.8
+133,Sci-fi,190.4
+134,Sci-fi,163.6
+135,Sci-fi,153.6
+136,Sci-fi,151.7
+137,Sci-fi,147.2
+138,Sci-fi,128.9
+139,Sci-fi,125.2
+140,cute,632.9
+141,cute,469.6
+142,cute,444.9
+143,cute,421.9
+144,cute,293.5
+145,cute,247.5
+146,cute,238.4
+147,cute,232.6
+148,cute,210.4
+149,cute,201.4
+150,cute,199.1
+151,cute,193.8
+152,cute,189.9
+153,cute,185.2
+154,cute,167.3
+155,cute,163.9
+156,cute,160.7
+157,cute,147.2
+158,cute,144.2
+159,cute,136.0
+160,heal,597.7
+161,heal,382.9
+162,heal,355.9
+163,heal,296.4
+164,heal,293.5
+165,heal,269.3
+166,heal,260.3
+167,heal,243.6
+168,heal,238.4
+169,heal,230.3
+170,heal,210.8
+171,heal,207.6
+172,heal,201.4
+173,heal,196.1
+174,heal,193.8
+175,heal,177.4
+176,heal,167.3
+177,heal,164.3
+178,heal,163.9
+179,heal,138.5
+180,school,691.7
+181,school,632.7
+182,school,624.3
+183,school,598.2
+184,school,577.4
+185,school,514.7
+186,school,509.5
+187,school,505.6
+188,school,477.6
+189,school,460.2
+190,school,446.3
+191,school,435.0
+192,school,382.9
+193,school,373.8
+194,school,363.1
+195,school,346.8
+196,school,346.3
+197,school,345.2
+198,school,339.3
+199,school,328.3
+200,kids,102.8
+201,kids,32.0
+202,kids,31.2
+203,kids,22.6
+204,kids,16.8
+205,kids,11.7
+206,kids,8.5
+207,kids,8.4
+208,kids,7.4
+209,kids,6.8
+210,kids,6.7
+211,kids,6.6
+212,kids,6.6
+213,kids,6.5
+214,kids,6.3
+215,kids,6.0
+216,kids,6.0
+217,kids,5.6
+218,kids,5.6
+219,kids,5.4
+220,short,164.7
+221,short,149.2
+222,short,111.9
+223,short,108.7
+224,short,99.0
+225,short,71.5
+226,short,68.8
+227,short,65.6
+228,short,63.1
+229,short,58.1
+230,short,41.8
+231,short,41.3
+232,short,27.8
+233,short,27.2
+234,short,26.2
+235,short,25.9
+236,short,24.1
+237,short,22.0
+238,short,20.8
+239,short,20.3
+240,shoujo ai,691.7
+241,shoujo ai,645.3
+242,shoujo ai,624.3
+243,shoujo ai,598.2
+244,shoujo ai,514.7
+245,shoujo ai,509.5
+246,shoujo ai,477.6
+247,shoujo ai,466.0
+248,shoujo ai,460.2
+249,shoujo ai,443.8
+250,shoujo ai,413.6
+251,shoujo ai,388.2
+252,shoujo ai,373.8
+253,shoujo ai,369.3
+254,shoujo ai,364.2
+255,shoujo ai,346.3
+256,shoujo ai,345.2
+257,shoujo ai,339.3
+258,shoujo ai,325.0
+259,shoujo ai,322.5
+260,magic,443.8
+261,magic,319.9
+262,magic,296.1
+263,magic,279.2
+264,magic,230.3
+265,magic,227.7
+266,magic,213.9
+267,magic,207.6
+268,magic,193.8
+269,magic,185.2
+270,magic,164.9
+271,magic,160.2
+272,magic,146.5
+273,magic,120.4
+274,magic,119.3
+275,magic,115.3
+276,magic,110.1
+277,magic,105.3
+278,magic,103.2
+279,magic,101.8
+280,adventure,626.0
+281,adventure,616.3
+282,adventure,560.1
+283,adventure,486.4
+284,adventure,472.3
+285,adventure,427.8
+286,adventure,382.6
+287,adventure,291.5
+288,adventure,279.2
+289,adventure,273.8
+290,adventure,262.8
+291,adventure,232.6
+292,adventure,220.2
+293,adventure,203.0
+294,adventure,201.0
+295,adventure,192.2
+296,adventure,189.9
+297,adventure,180.7
+298,adventure,171.8
+299,adventure,160.9
+300,history,921.4
+301,history,783.8
+302,history,616.5
+303,history,616.3
+304,history,510.7
+305,history,474.1
+306,history,466.0
+307,history,437.2
+308,history,433.5
+309,history,428.9
+310,history,427.8
+311,history,395.7
+312,history,389.6
+313,history,382.6
+314,history,375.8
+315,history,364.0
+316,history,295.1
+317,history,283.1
+318,history,275.6
+319,history,273.8
+320,fake history,127.0
+321,fake history,63.1
+322,fake history,51.4
+323,fake history,42.1
+324,fake history,38.7
+325,fake history,37.2
+326,fake history,34.9
+327,fake history,29.0
+328,fake history,27.7
+329,fake history,25.5
+330,fake history,20.3
+331,fake history,19.7
+332,fake history,19.0
+333,fake history,18.8
+334,fake history,16.3
+335,fake history,15.7
+336,fake history,14.3
+337,fake history,13.5
+338,fake history,11.5
+339,fake history,10.6
+340,mecha,626.0
+341,mecha,616.5
+342,mecha,616.3
+343,mecha,597.7
+344,mecha,560.1
+345,mecha,540.9
+346,mecha,510.7
+347,mecha,486.4
+348,mecha,474.1
+349,mecha,472.3
+350,mecha,469.6
+351,mecha,437.2
+352,mecha,427.8
+353,mecha,382.6
+354,mecha,355.1
+355,mecha,298.3
+356,mecha,294.8
+357,mecha,294.2
+358,mecha,289.3
+359,mecha,288.6
+360,demon,180.7
+361,demon,125.2
+362,demon,80.8
+363,demon,74.4
+364,demon,59.5
+365,demon,54.5
+366,demon,50.0
+367,demon,49.9
+368,demon,48.9
+369,demon,46.6
+370,demon,43.0
+371,demon,42.8
+372,demon,42.5
+373,demon,42.4
+374,demon,40.6
+375,demon,40.3
+376,demon,36.8
+377,demon,35.0
+378,demon,33.9
+379,demon,31.3
+380,sound,369.3
+381,sound,274.6
+382,sound,260.3
+383,sound,259.9
+384,sound,243.6
+385,sound,227.7
+386,sound,221.7
+387,sound,221.5
+388,sound,204.4
+389,sound,189.6
+390,sound,185.8
+391,sound,164.3
+392,sound,160.9
+393,sound,160.5
+394,sound,152.4
+395,sound,149.0
+396,sound,140.6
+397,sound,135.1
+398,sound,119.3
+399,sound,119.1
+400,sports,921.4
+401,sports,706.7
+402,sports,477.6
+403,sports,428.9
+404,sports,339.3
+405,sports,332.7
+406,sports,279.3
+407,sports,256.6
+408,sports,234.9
+409,sports,191.4
+410,sports,188.7
+411,sports,162.7
+412,sports,150.6
+413,sports,147.2
+414,sports,135.1
+415,sports,133.3
+416,sports,119.3
+417,sports,117.9
+418,sports,117.5
+419,sports,95.8
+420,inspire,279.3
+421,inspire,163.6
+422,inspire,153.7
+423,inspire,124.6
+424,inspire,121.8
+425,inspire,85.6
+426,inspire,81.7
+427,inspire,78.6
+428,inspire,78.0
+429,inspire,74.4
+430,inspire,62.7
+431,inspire,59.9
+432,inspire,50.9
+433,inspire,49.6
+434,inspire,49.4
+435,inspire,46.7
+436,inspire,44.3
+437,inspire,43.8
+438,inspire,42.6
+439,inspire,40.3
+440,music,921.4
+441,music,783.8
+442,music,597.7
+443,music,437.2
+444,music,322.5
+445,music,295.1
+446,music,294.2
+447,music,275.6
+448,music,268.4
+449,music,223.8
+450,music,199.9
+451,music,150.4
+452,music,135.1
+453,music,121.8
+454,music,115.3
+455,music,113.3
+456,music,111.3
+457,music,92.7
+458,music,86.4
+459,music,83.1
+460,reasoning,443.8
+461,reasoning,223.8
+462,reasoning,162.7
+463,reasoning,150.4
+464,reasoning,145.2
+465,reasoning,115.3
+466,reasoning,114.1
+467,reasoning,107.7
+468,reasoning,100.4
+469,reasoning,86.4
+470,reasoning,80.6
+471,reasoning,79.0
+472,reasoning,78.1
+473,reasoning,76.6
+474,reasoning,76.0
+475,reasoning,74.8
+476,reasoning,64.8
+477,reasoning,62.4
+478,reasoning,59.9
+479,reasoning,59.2
+480,club,514.7
+481,club,384.1
+482,club,369.3
+483,club,249.7
+484,club,220.2
+485,club,144.2
+486,club,138.5
+487,club,128.7
+488,club,127.6
+489,club,122.5
+490,club,119.9
+491,club,103.6
+492,club,88.4
+493,club,81.8
+494,club,73.9
+495,club,67.3
+496,club,65.3
+497,club,63.8
+498,club,55.3
+499,club,54.9
+500,wit,514.7
+501,wit,413.6
+502,wit,339.3
+503,wit,279.3
+504,wit,269.3
+505,wit,226.7
+506,wit,150.4
+507,wit,128.9
+508,wit,124.6
+509,wit,115.3
+510,wit,114.1
+511,wit,103.2
+512,wit,100.5
+513,wit,93.9
+514,wit,86.4
+515,wit,85.6
+516,wit,81.7
+517,wit,80.6
+518,wit,79.0
+519,wit,78.1
+520,tear,624.3
+521,tear,486.4
+522,tear,395.7
+523,tear,373.8
+524,tear,355.1
+525,tear,295.1
+526,tear,277.1
+527,tear,249.7
+528,tear,127.6
+529,tear,122.5
+530,tear,119.9
+531,tear,116.7
+532,tear,106.7
+533,tear,95.8
+534,tear,94.3
+535,tear,85.2
+536,tear,78.3
+537,tear,73.6
+538,tear,57.9
+539,tear,56.9
+540,food,597.7
+541,food,443.8
+542,food,382.9
+543,food,355.9
+544,food,322.5
+545,food,296.4
+546,food,294.2
+547,food,275.5
+548,food,269.3
+549,food,260.3
+550,food,243.6
+551,food,238.4
+552,food,230.3
+553,food,201.1
+554,food,196.3
+555,food,196.1
+556,food,144.2
+557,food,138.5
+558,food,135.1
+559,food,132.9
+560,idol,346.8
+561,idol,312.8
+562,idol,239.3
+563,idol,219.3
+564,idol,180.1
+565,idol,167.3
+566,idol,133.1
+567,idol,110.9
+568,idol,97.0
+569,idol,67.6
+570,idol,59.6
+571,idol,40.3
+572,idol,40.1
+573,idol,38.9
+574,idol,35.1
+575,idol,30.2
+576,idol,27.2
+577,idol,26.1
+578,idol,24.3
+579,idol,19.8
+580,shounen ai,346.8
+581,shounen ai,312.8
+582,shounen ai,239.3
+583,shounen ai,219.3
+584,shounen ai,180.1
+585,shounen ai,167.3
+586,shounen ai,133.1
+587,shounen ai,110.9
+588,shounen ai,97.0
+589,shounen ai,67.6
+590,shounen ai,59.6
+591,shounen ai,40.3
+592,shounen ai,40.1
+593,shounen ai,38.9
+594,shounen ai,35.1
+595,shounen ai,30.2
+596,shounen ai,27.2
+597,shounen ai,26.1
+598,shounen ai,24.3
+599,shounen ai,19.8
+600,job,165.8
+601,job,150.4
+602,job,114.1
+603,job,107.7
+604,job,80.6
+605,job,76.6
+606,job,75.5
+607,job,59.9
+608,job,59.9
+609,job,59.3
+610,job,59.2
+611,job,58.4
+612,job,50.3
+613,job,48.9
+614,job,44.3
+615,job,44.3
+616,job,40.8
+617,job,39.7
+618,job,34.8
+619,job,31.9
