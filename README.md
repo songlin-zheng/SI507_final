@@ -1,5 +1,4 @@
 # SI507_final
-<<<<<<< HEAD
 
 Code is in 2 parts: data acquisition in si507_final_project.ipynb, process and presentation in slzheng_presentation.py.
 
